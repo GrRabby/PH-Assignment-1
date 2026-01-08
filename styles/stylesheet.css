@@ -35,10 +35,17 @@ button:active {
     gap: 32px;
 }
 #navigation-bar a {
+    padding: 10px;
     text-decoration: none;
     font-size: 16px;
     color: #000000;
     font-weight: 500;
+}
+#navigation-bar a:hover {
+    background-color: #469165;
+    border-radius: 50px;
+    color: #FFFFFF;
+    box-shadow: 0 0 10px #469165;
 }
 .btn-early-access {
     background-color: #469165;
@@ -52,7 +59,7 @@ button:active {
     font-weight: 500;
 
 }
-.btn-early-access-opne {
+.btn-early-access-open {
     border: none;
     pad: 8px 12px;
     width: 229px;
@@ -94,7 +101,7 @@ button:active {
 #banner-content p {
     font-size: 18px;
     line-height: 24px;
-    color: #ebecee;
+    color: #FFFFFF;
 }
 .header-buttons-container {
     display: flex;
