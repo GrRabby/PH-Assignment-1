@@ -127,7 +127,7 @@ button:active {
     padding: 50px 120px 10px;
     align-items: center;
 }
-.notes-header-texts h1 {
+.common-headers{
     font-size: 48px;
     font-weight: 700;
     color: #001931;
