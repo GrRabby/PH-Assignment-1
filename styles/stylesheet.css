@@ -259,3 +259,31 @@ button:active {
     line-height: 24px;
     /* margin-bottom: 24px; */
 }
+#footer-section {
+    padding: 120px 120px 100px;
+    background-color: #001931;
+}
+.socials-container {
+    display: flex;
+    justify-content: space-between;
+}
+.social-links {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.icons {
+    display: flex;
+    gap: 16px;
+}
+.social-links h4{
+    font-size: 20px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+hr {
+    border: none;  
+    height: 1px;   
+    background-color: #22384d;
+    margin-top: 80px;
+}
