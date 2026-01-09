@@ -7,6 +7,13 @@
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
 }
+.common-headers{
+    font-size: 48px;
+    font-weight: 700;
+    color: #001931;
+    text-align: center;
+    margin-bottom: 16px;
+}
 button:hover {
     cursor: pointer;
     box-shadow: 0 0 10px #469165;
@@ -59,14 +66,20 @@ button:active {
     font-weight: 600;
 
 }
-.btn-early-access-open {
+.early-access-open {
+    display: flex;
+    align-items: center;
+    gap: 8px;
     border: none;
-    pad: 8px 12px;
     width: 229px;
     height: 35px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #16a34a;
     border-radius: 1000px;
-    color: #469165;
-    font-weight: 600;
+    background-color: #FFFFFF;
+    padding: 8px 12px;
+    justify-content: center;
 }
 #banner {
     padding: 10px;
@@ -127,13 +140,6 @@ button:active {
     padding: 50px 120px 10px;
     align-items: center;
     background-color: #fbfbfb;
-}
-.common-headers{
-    font-size: 48px;
-    font-weight: 700;
-    color: #001931;
-    text-align: center;
-    margin-bottom: 16px;
 }
 .notes-header-texts p {
     font-size: 16px;
@@ -257,10 +263,9 @@ button:active {
     font-size: 16px;
     color: #627382;
     line-height: 24px;
-    /* margin-bottom: 24px; */
 }
 #footer-section {
-    padding: 120px 120px 100px;
+    padding: 120px 120px 30px;
     background-color: #001931;
 }
 .socials-container {
@@ -281,9 +286,15 @@ button:active {
     font-weight: 500;
     color: #FFFFFF;
 }
-hr {
+#footer-section hr {
     border: none;  
     height: 1px;   
     background-color: #22384d;
     margin-top: 80px;
+}
+.footer-copyright {
+    margin-top: 30px;
+    color: #FFFFFF;
+    font-size: 16px;
+    text-align: center;
 }
