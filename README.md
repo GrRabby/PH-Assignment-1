@@ -1,51 +1,20 @@
-PH Assignment 1
+📖 Overview
 
-This is a basic web development project created as part of the Programming Hero assignment series.
+This project is part of the Programming Hero (PH) Assignment series. It demonstrates foundational web development skills using HTML, CSS, and basic layout techniques.
 
-Live Demo
+The goal of this assignment is to practice building a structured and visually appealing webpage while following modern front-end development practices.
 
-https://grrabby.github.io/PH-Assignment-1/
+🚀 Features
+Responsive webpage layout
+Clean and semantic HTML structure
+Styled with modern CSS techniques
+Organized sections for better readability
+Beginner-friendly project structure
+🛠️ Technologies Used
+HTML5 – for structure
+CSS3 – for styling and layout
+GitHub Pages – for deployment
 
-Description
-
-This project is built using HTML and CSS. It focuses on practicing fundamental web development concepts such as page structure, styling, and layout.
-
-Technologies Used
-HTML5
-CSS3
-GitHub Pages (for deployment)
-Installation
-
-Clone the repository:
-
-git clone https://github.com/GrRabby/PH-Assignment-1.git
-
-Open the project folder:
-
-cd PH-Assignment-1
-
-Then open index.html in your browser.
-
-Author
-
-Gulam Robbani
-GitHub: https://github.com/GrRabby
-
-If you want next step, I can also make:
-
-README for PH Assignment 2–5 (consistent style)
-A “pro portfolio-style README” version
-Badges + GitHub stats integration
-give me the markup
-
-Here is the clean README markdown (ready to paste into README.md):
-
-# PH Assignment 1
-
-This is a basic web development project created as part of the Programming Hero assignment series.
-
-## Live Demo
-https://grrabby.github.io/PH-Assignment-1/
 
 ## Description
 This project is built using HTML and CSS. It focuses on practicing fundamental web development concepts such as page structure, styling, and layout.
@@ -54,6 +23,9 @@ This project is built using HTML and CSS. It focuses on practicing fundamental w
 - HTML5  
 - CSS3  
 - GitHub Pages
+
+## Live Demo
+https://grrabby.github.io/PH-Assignment-1/
 
 ## Installation
 
